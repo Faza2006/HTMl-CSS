@@ -1,0 +1,53 @@
+div {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    color: blue;
+    border: 3px solid brown;
+    position: static;
+    top: 20px;
+}
+
+h2 {
+    color: red;
+    border: 1px dashed blue;
+    margin-bottom: 100px;
+}
+
+p {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+img {
+    border: 1px solid green;
+
+    margin: 0px;
+}
+
+ul li {
+    background: chocolate;
+}
+
+#paragraf {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.huruf{
+    font-size: 40px;
+}
+
+.warna{
+    background: cornflowerblue;
+}
+
+.bentuk {
+    font-style: italic;
+}
+
+.huruf-tebal {
+    font-style: initial;
+}
+
